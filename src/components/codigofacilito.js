@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql, grap } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Posts from "./posts"
 import Certificate from "./certificate"
 import Course from "./course"
@@ -27,7 +27,7 @@ export default () => {
     }
   `)
 
-  console.log(data)
+  // console.log(data)
   return (
     <section>
       <div className="mt-24">
@@ -36,7 +36,6 @@ export default () => {
             data={data.allCodigofacilitoJson.nodes[0].data.certificates}
             key={data.allCodigofacilitoJson.nodes[0].data.certificates}
             card={Certificate}
-
             title="My online CodigoFacilito certificates"
           />
 

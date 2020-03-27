@@ -54,6 +54,12 @@
   @apply text-white;
 }
 
-.postElement:hover a .size{
+.postElement:hover a .size {
   width: 220px;
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  @apply bg-blue-200 text-purple-700 text-xs p-2;
 }
