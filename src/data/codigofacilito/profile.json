@@ -1,0 +1,129 @@
+{
+  "data": {
+    "email": "al_1552009@hotmail.com",
+    "username": "aldhair15",
+    "certificates": [
+      {
+        "score": 9,
+        "code": "643f8909-f537-44eb-b462-06dcaf27592e",
+        "title": "Curso Profesional de JavaScript"
+      },
+      {
+        "score": 9,
+        "code": "311f91b2-b595-4b76-bc3c-894fcebd6316",
+        "title": "Curso profesional de PHP"
+      },
+      {
+        "score": 9,
+        "code": "5b1a65a6-2e87-4742-97a4-52149a473494",
+        "title": "Curso Profesional de Python"
+      },
+      {
+        "score": 9,
+        "code": "a689e390-3b98-4077-98ec-1e4a23a9868c",
+        "title": "Curso Profesional de JAVA"
+      },
+      {
+        "score": 9,
+        "code": "8d553e2d-fc59-4854-9463-e5bbd79d2314",
+        "title": "Curso de introducción a la programación"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso de C++ Básico Gratis",
+        "progress": "18.0",
+        "url": "http://codigofacilito.com/courses/c-plus-plus"
+      },
+      {
+        "title": "Curso de Programación Orientada a Objetos con C#",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/c_sharp"
+      },
+      {
+        "title": "Curso de Pygame Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/pygame"
+      },
+      {
+        "title": "Curso de javaScript Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/javascript"
+      },
+      {
+        "title": "Curso de Python Básico Gratis",
+        "progress": "6.0",
+        "url": "http://codigofacilito.com/courses/Python"
+      },
+      {
+        "title": "Curso de introducción a Wordpress Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Wordpress"
+      },
+      {
+        "title": "Curso para crear un juego de Plataformas en HTML5",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/plataformas_html5"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "JavaScript y el DOM",
+        "progress": "37.0",
+        "url": "http://codigofacilito.com/courses/javascript-dom"
+      },
+      {
+        "title": "Curso profesional de PHP",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/php-profesional"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "64.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Curso Profesional de JAVA",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/java-profesional"
+      },
+      {
+        "title": "Curso de introducción a la programación",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/introduccion"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso Profesional de JavaScript",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso profesional de PHP",
+        "url": "http://codigofacilito.com/courses/php-profesional"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Curso Profesional de JAVA",
+        "url": "http://codigofacilito.com/courses/java-profesional"
+      },
+      {
+        "title": "Curso de introducción a la programación",
+        "url": "http://codigofacilito.com/courses/introduccion"
+      }
+    ]
+  },
+  "errors": []
+}

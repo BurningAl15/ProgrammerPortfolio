@@ -1,0 +1,59 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn {
+  @apply bg-purple-500 text-white font-bold rounded border border-purple-700 py-2 px-4 border-b-4;
+}
+
+.repos-list {
+  columns: 3;
+  -moz-column: 3;
+  column-rule: 3px solid;
+  @apply p-4;
+}
+
+.repos-list li {
+  break-inside: avoid-column;
+}
+
+.repoBtn {
+  @apply bg-pink-300 p-2 rounded-lg;
+  transition: 0.3s ease;
+}
+
+.repoBtn:hover {
+  @apply bg-pink-500 p-3 rounded-lg;
+}
+
+.masbtn {
+  @apply bg-purple-500 text-white font-bold rounded border border-purple-700 py-2 px-4 border-b-4;
+  transition: 0.3s ease;
+}
+
+.masbtn:hover {
+  @apply bg-purple-700 text-white font-bold rounded border border-purple-700 py-2 px-4 border-b-4;
+}
+
+.postElement {
+  @apply max-w-xl  rounded shadow-lg text-center bg-gray-300 my-3 mx-2;
+  transition: 0.3s ease;
+}
+
+.postElement:hover {
+  @apply max-w-2xl rounded shadow-lg text-center bg-gray-500 my-3 mx-3;
+}
+
+.postElement:hover a div div span {
+  @apply bg-purple-400;
+}
+
+.postElement:hover a div h4 {
+  @apply text-white;
+}
+
+.postElement:hover a .size{
+  width: 220px;
+}
