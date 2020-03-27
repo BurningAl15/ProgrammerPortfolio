@@ -26,6 +26,7 @@ export default () => {
       setReposCount(myRepos.length)
 
       sessionStorage.setItem("repos", JSON.stringify(myRepos))
+      myRepos = myRepos.slice(1, 16)
 
       setRepos(myRepos)
     }
@@ -44,9 +45,14 @@ export default () => {
         })}
       </ul>
       <div className="mt-8 text-center">
-          <a className="masbtn" target="_blank" rel="noopener noreferrer" href="https://github.com/burningal15">
-              More of my github repos ({reposCount})
-          </a>
+        <a
+          className="masbtn"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://github.com/burningal15"
+        >
+          More of my github repos ({reposCount})
+        </a>
       </div>
     </div>
   )
