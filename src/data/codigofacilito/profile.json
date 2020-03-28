@@ -27,6 +27,11 @@
         "score": 9,
         "code": "8d553e2d-fc59-4854-9463-e5bbd79d2314",
         "title": "Curso de introducción a la programación"
+      },
+      {
+        "score": 9,
+        "code": "dffd4b28-7e1a-4c9a-80b5-64c8e615b79e",
+        "title": "Curso Profesional Desarrollo Web"
       }
     ],
     "articles": [],
@@ -88,7 +93,7 @@
       },
       {
         "title": "Crea un sitio personal con Gatsby",
-        "progress": "64.0",
+        "progress": "85.0",
         "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
       },
       {
@@ -100,6 +105,16 @@
         "title": "Curso de introducción a la programación",
         "progress": "100.0",
         "url": "http://codigofacilito.com/courses/introduccion"
+      },
+      {
+        "title": "Curso Profesional de Android",
+        "progress": "6.0",
+        "url": "http://codigofacilito.com/courses/android-profesional"
+      },
+      {
+        "title": "Curso Profesional Desarrollo Web",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/frontend-profesional"
       }
     ],
     "finished_courses": [
@@ -122,6 +137,10 @@
       {
         "title": "Curso de introducción a la programación",
         "url": "http://codigofacilito.com/courses/introduccion"
+      },
+      {
+        "title": "Curso Profesional Desarrollo Web",
+        "url": "http://codigofacilito.com/courses/frontend-profesional"
       }
     ]
   },
