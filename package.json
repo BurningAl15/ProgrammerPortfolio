@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "gatsby": "^2.19.45",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-postcss": "^2.2.1",
     "gatsby-source-filesystem": "^2.2.2",
     "gatsby-transformer-json": "^2.3.1",
